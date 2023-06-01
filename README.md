@@ -15,7 +15,7 @@ Before running the application, make sure you have the following installed:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/banking-application.git
+git clone(https://github.com/sunnydao99/TCSS-445---Banking-System-.git)
 
 
 2. Open the project in your preferred Java IDE.
